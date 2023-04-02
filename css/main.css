@@ -1,0 +1,19 @@
+.cardTabl table{
+    width: 100%;
+}
+
+.card {
+    background-color: #fff;
+    width: 250px;
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px #0e5454;
+    margin: auto;
+    margin-top: 100px;
+}
+
+@media (max-width: 500px) {
+    .cardLeft{
+        display: none;
+    }
+}
